@@ -32,3 +32,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
